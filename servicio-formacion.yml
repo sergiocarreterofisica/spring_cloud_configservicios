@@ -11,3 +11,4 @@ springdoc:
   - com.curso.controller
   paths-to-match:
   - /**
+  
